@@ -1,0 +1,1 @@
+# chatgpt-to-anki-flashcard-languages
