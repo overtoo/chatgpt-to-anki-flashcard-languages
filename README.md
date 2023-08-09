@@ -13,7 +13,9 @@
     - 她 (She): [Click to add to Anki](anki://x-callback-url/addnote?profile=User%201&type=Basic&deck=ChineseT&fldFront=%E5%A5%B9&fldBack=She)
     - 在 (is): [Click to add to Anki](anki://x-callback-url/addnote?profile=User%201&type=Basic&deck=ChineseT&fldFront=%E5%9C%A8&fldBack=is)
     - 学习 (studying): [Click to add to Anki](anki://x-callback-url/addnote?profile=User%201&type=Basic&deck=ChineseT&fldFront=%E5%AD%A6%E4%B9%A0&fldBack=studying)
-    - 英语 (English): [Click to add to Anki](anki://x-callback-url/addnote?profile=User%201&type=Basic&deck=ChineseT&fldFront=%E8%8B%B1%E8%AF%AD&fldBack=English)    
-    Process this:    
+    - 英语 (English): [Click to add to Anki](anki://x-callback-url/addnote?profile=User%201&type=Basic&deck=ChineseT&fldFront=%E8%8B%B1%E8%AF%AD&fldBack=English)  
+    
+    Now, process this:    
+    
     這個週末我有很多時間。星期五我去跟朋友吃飯。昨天我去健身還有在家念中文。
 
