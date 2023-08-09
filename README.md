@@ -1,4 +1,3 @@
-# chatgpt-to-anki-flashcard-languages
 
     Hey chatGPT, when i give you a text, you return as below broken up per word:    
 
